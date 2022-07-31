@@ -1,0 +1,500 @@
+country_or_area,year,commodity,flow,trade_usd,weight_kg,quantity
+Saint Vincent and the Grenadines,2000,"Trees, edible fruit or nut, shrubs and bushes",Export,2,6,3
+Mexico,1990,"Rice, husked (brown)",Export,2,6,6
+Mexico,1991,"Malt, not roasted",Export,2,6,6
+Peru,2000,"Fresh cheese, unfermented whey cheese, curd",Export,3,6,6
+Peru,2007,Maize (corn) groats or meal,Export,3,6,6
+Morocco,2002,"Starches except wheat, maize, potato, manioc",Export,3,6,6
+Niger,1999,"Poultry, live except domestic fowls, > 185 grams",Import,3,6,6
+Saint Lucia,2007,Hair & waste of badger and of other brush making hair,Export,4,6,6
+Mongolia,2002,Bones and horn-cores unworked or simply worked nes,Export,4,6,6
+Mexico,1990,Wheat gluten,Export,5,6,6
+Peru,2004,Milk and cream powder sweetened < 1.5% fat,Export,6,6,6
+Palau,2012,"Malt, not roasted",Import,6,6,6
+Nicaragua,2011,Rye,Import,6,6,6
+Namibia,2006,"Mosses and lichens for bouquets, ornamental purposes",Import,7,6,6
+Nicaragua,2013,Bones and horn-cores unworked or simply worked nes,Export,8,6,6
+Sao Tome and Principe,2002,Cereals unmilled nes,Import,8,6,6
+Saint Kitts and Nevis,1995,Rice in the husk (paddy or rough),Import,9,6,6
+Morocco,2015,Rye,Import,9,6,6
+Montserrat,2004,Potato flour or meal,Import,9,6,6
+Rwanda,2006,Feathers and down used for stuffing,Import,10,6,6
+Rep. of Moldova,2010,"Rice, husked (brown)",Export,11,6,6
+Niger,1995,Bones and horn-cores unworked or simply worked nes,Import,12,6,6
+Switzerland,2016,Rice in the husk (paddy or rough),Export,14,6,6
+Suriname,2000,Grain sorghum,Export,15,6,6
+Paraguay,2009,"Cereals, rolled or flaked grains nes",Export,16,6,6
+TFYR of Macedonia,2014,"Rice, broken",Import,16,6,6
+New Zealand,1998,"Germ of cereals, whole, rolled, flaked or ground",Import,16,6,6
+Morocco,2006,"Cereal groats or meal except wheat, maize, rice, oats",Import,16,6,6
+Sri Lanka,2009,"Bovine animals, live, except pure-bred breeding",Export,17,6,1
+South Africa,2014,"Swine, live except pure-bred breeding < 50 kg",Import,17,6,1
+Peru,2001,"Maize (corn), hulled, pearled, sliced or kibbled",Import,17,6,6
+Palau,2014,"Cereals, hulled, pearled, sliced or kibbled nes",Import,18,6,6
+Nicaragua,2012,Edible products of animal origin nes,Import,18,6,6
+Namibia,2009,"Ambergris, civet, musk, etc for pharmaceutical use",Import,19,6,6
+Romania,2003,"Fish, shellfish and crustaceans (non-food)",Export,20,6,6
+Ukraine,2003,"Cut flowers and flower buds for bouquets, dried, etc.",Import,20,6,6
+Panama,2002,"Fish, shellfish and crustaceans (non-food)",Import,22,6,6
+Palau,2008,"Mosses and lichens for bouquets, ornamental purposes",Import,22,6,6
+Mongolia,2004,"Bulbs, tubers, corms, crowns and rhizomes, dormant",Import,23,6,1067
+New Caledonia,2014,Maize (corn) starch,Export,24,6,6
+Mongolia,2016,Natural milk products nes,Export,24,6,6
+Niger,2002,"Bristles, hair & waste thereof of pigs, hogs or boars",Import,26,6,6
+Saint Lucia,2012,"Foliage,branches, for bouquets, etc. - fresh",Export,28,6,6
+New Caledonia,2006,Rye,Import,30,6,6
+Tonga,2012,Buckwheat,Import,31,6,6
+Peru,1995,"Feathers, down, etc. of birds, except for stuffing",Import,31,6,6
+Mauritius,2006,"Fresh cheese, unfermented whey cheese, curd",Export,32,6,6
+Wallis and Futuna Isds,2000,"Sponges, natural, of animal origin",Import,32,6,6
+Palau,2012,"Eggs, bird, not in shell, dried",Import,32,6,6
+Palau,2015,"Trees, edible fruit or nut, shrubs and bushes",Import,32,6,3
+Morocco,2012,"Germ of cereals, whole, rolled, flaked or ground",Import,33,6,6
+Samoa,2007,"Trees, edible fruit or nut, shrubs and bushes",Import,34,6,23
+Rep. of Moldova,2010,Cereals unmilled nes,Import,35,6,6
+Palau,2014,"Trees, edible fruit or nut, shrubs and bushes",Import,35,6,3
+Mayotte,2000,"Cut flowers and flower buds for bouquets, etc., fresh",Import,35,6,6
+Russian Federation,2000,"Cuttings and slips, not rooted",Export,36,6,190
+Saint Lucia,2007,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Import,36,6,6
+Rwanda,1996,"Cut flowers and flower buds for bouquets, dried, etc.",Import,36,6,6
+Saint Vincent and the Grenadines,1997,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Export,37,6,6
+Sri Lanka,2000,Oats,Export,38,6,6
+New Zealand,1991,Egg yolks except dried,Import,39,6,82
+Seychelles,2002,Feathers and down used for stuffing,Import,40,6,6
+Montserrat,2013,Cereals unmilled nes,Import,40,6,6
+New Zealand,1990,Rice groats or meal,Import,41,6,6
+Rep. of Korea,2010,Bones and horn-cores unworked or simply worked nes,Export,42,6,6
+Papua New Guinea,1998,"Sponges, natural, of animal origin",Import,43,6,6
+Mongolia,2000,"Sponges, natural, of animal origin",Import,43,6,6
+Nicaragua,1997,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Export,45,6,6
+Mauritius,2005,"Cheese, blue-veined",Import,47,6,6
+Montserrat,2008,"Cereals, rolled or flaked grains nes",Import,48,6,6
+Sri Lanka,1994,"Feathers, down, etc. of birds, except for stuffing",Export,50,6,6
+Nicaragua,2014,"Plants, live (including their roots),nes",Export,50,6,6
+Sudan,2015,"Swine, live pure-bred breeding",Import,50,6,1
+Palau,2016,"Cereals, hulled, pearled, sliced or kibbled nes",Import,50,6,6
+Romania,2016,"Fish, shellfish and crustaceans (non-food)",Export,52,6,6
+New Caledonia,2012,"Mosses and lichens for bouquets, ornamental purposes",Export,52,6,6
+Namibia,2012,Rye,Export,55,6,6
+Zambia,2010,"Ambergris, civet, musk, etc for pharmaceutical use",Export,57,6,6
+Mauritius,2011,"Germ of cereals, whole, rolled, flaked or ground",Import,57,6,6
+"Other Asia, nes",2002,"Cheese, grated or powdered, of all kinds",Export,59,6,6
+Namibia,2012,Inulin,Import,59,6,6
+"Other Asia, nes",2004,"Cheese, grated or powdered, of all kinds",Export,60,6,6
+Namibia,2007,"Oats, rolled or flaked grains",Export,63,6,6
+Mozambique,2003,Egg yolks dried,Import,63,6,6
+Zambia,2006,Feathers and down used for stuffing,Import,69,6,6
+Montenegro,2012,Natural milk products nes,Export,72,6,6
+Rep. of Moldova,2013,"Mosses and lichens for bouquets, ornamental purposes",Import,73,6,6
+Saint Lucia,2006,"Wheat except durum wheat, and meslin",Import,77,6,6
+Morocco,1997,"Cereals, hulled, pearled, sliced or kibbled nes",Import,79,6,6
+Sri Lanka,2008,"Cut flowers and flower buds for bouquets, etc., fresh",Import,82,6,6
+Mexico,2012,Roses,Export,85,6,49
+Singapore,1989,"Bristles, hair & waste thereof of pigs, hogs or boars",Import,85,6,6
+New Caledonia,2006,"Sponges, natural, of animal origin",Export,92,6,6
+Mauritius,2016,Nutmeg,Export,95,6,6
+Mozambique,2004,Barley,Import,95,6,6
+Morocco,2014,"Flour, meal, powder of fruit/nut, citrus or melon pee",Export,98,6,6
+New Zealand,1996,"Germ of cereals, whole, rolled, flaked or ground",Import,103,6,6
+Saint Kitts and Nevis,2010,"Bulbs, tubers, corms, crowns and rhizomes, dormant",Import,105,6,606
+Serbia,2013,"Feathers, down, etc. of birds, except for stuffing",Import,106,6,6
+Mozambique,2003,Manioc (cassava) starch,Import,106,6,6
+Saint Lucia,1995,"Bulbs, tubers, corms, crowns and rhizomes, dormant",Import,113,6,6
+Samoa,2012,Hair & waste of badger and of other brush making hair,Import,116,6,6
+Turks and Caicos Isds,2011,Bones and horn-cores unworked or simply worked nes,Import,120,6,6
+Saint Lucia,1997,Durum wheat,Import,121,6,6
+Portugal,1999,"Foliage,branches, for bouquets, etc. - except fresh",Export,128,6,6
+Niger,2011,"Foliage,branches, for bouquets, etc. - fresh",Import,130,6,6
+Saint Vincent and the Grenadines,2003,Animal products and domestic animal carcass (non-food,Import,135,6,6
+Namibia,2011,Egg yolks except dried,Export,137,6,6
+Montenegro,2010,"Fish, shellfish and crustaceans (non-food)",Import,137,6,6
+Malta,2009,"Tea, black (fermented or partly) in packages < 3 kg",Export,140,6,6
+Sri Lanka,2001,"Guts, bladders and stomachs of animals except fish",Export,148,6,6
+Saint Vincent and the Grenadines,2000,Oats,Import,150,6,6
+Saint Lucia,2012,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Import,150,6,6
+Slovenia,1995,"Cut flowers and flower buds for bouquets, dried, etc.",Export,155,6,6
+Rep. of Moldova,2008,Grain sorghum,Import,155,6,6
+Zimbabwe,2011,"Feathers, down, etc. of birds, except for stuffing",Import,171,6,6
+Swaziland,2006,"Horses, live pure-bred breeding",Export,185,6,1
+Seychelles,2008,"Fish, shellfish and crustaceans (non-food)",Export,192,6,6
+Oman,2012,Maize (corn) seed,Export,200,6,6
+Palau,2015,"Whalebone, horns, etc unworked or simply prepared nes",Import,206,6,6
+Seychelles,2002,"Sponges, natural, of animal origin",Import,209,6,6
+Venezuela,2005,"Cut flowers and flower buds for bouquets, dried, etc.",Import,211,6,6
+Saint Vincent and the Grenadines,2000,"Cut flowers and flower buds for bouquets, etc., fresh",Import,220,6,6
+Singapore,1994,"Bristles, hair & waste thereof of pigs, hogs or boars",Export,243,6,6
+Neth. Antilles,2007,"Hair, human, unworked, waste of human hair",Import,247,6,6
+TFYR of Macedonia,1995,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Import,301,6,6
+Norway,1998,"Ambergris, civet, musk, etc for pharmaceutical use",Import,312,6,6
+Mongolia,2013,"Eggs, bird, not in shell not dried",Import,313,6,6
+Nepal,2012,"Fowls, live domestic < 185 grams",Import,343,6,570
+Tunisia,2014,"Cut flowers and flower buds for bouquets, dried, etc.",Import,344,6,6
+Saint Lucia,2012,Grain sorghum,Import,363,6,6
+Morocco,2014,"Sponges, natural, of animal origin",Import,385,6,6
+Switzerland,1991,"Poultry, live except domestic fowls, > 185 grams",Export,419,6,6
+TFYR of Macedonia,1998,"Sponges, natural, of animal origin",Import,465,6,6
+Switzerland,2000,"Poultry, live except domestic fowls, > 185 grams",Export,473,6,2
+Malta,2007,"Foliage,branches, for bouquets, etc. - fresh",Export,498,6,6
+Samoa,2007,"Foliage,branches, for bouquets, etc. - except fresh",Import,534,6,6
+TFYR of Macedonia,2008,Animal products and domestic animal carcass (non-food,Import,591,6,6
+Mexico,1991,"Ivory, unworked or simply prepared, powder and waste",Import,643,6,6
+Namibia,2011,"Swine, live pure-bred breeding",Import,796,6,1
+South Africa,2004,"Ivory, unworked or simply prepared, powder and waste",Import,838,6,6
+Portugal,2002,"Feathers, down, etc. of birds, except for stuffing",Import,951,6,6
+Turkey,2006,"Ambergris, civet, musk, etc for pharmaceutical use",Import,1000,6,6
+Oman,2011,Animal products and domestic animal carcass (non-food,Export,1040,6,6
+Tonga,2009,"Animals, live, except farm animals",Import,1067,6,576
+Norway,2000,"Sponges, natural, of animal origin",Export,1161,6,6
+Swaziland,2007,"Fish, shellfish and crustaceans (non-food)",Import,1321,6,6
+United Rep. of Tanzania,2009,"Swine, live except pure-bred breeding > 50 kg",Export,1330,6,6
+Mexico,2012,"Hair, human, unworked, waste of human hair",Import,1421,6,6
+New Caledonia,2014,Animal products and domestic animal carcass (non-food,Export,1476,6,6
+Rep. of Moldova,2004,"Feathers, down, etc. of birds, except for stuffing",Import,1602,6,6
+Rep. of Korea,1998,"Sponges, natural, of animal origin",Import,1727,6,6
+Serbia and Montenegro,2004,"Feathers, down, etc. of birds, except for stuffing",Import,2013,6,6
+New Zealand,2006,Ossein and bones treated with acid,Export,2076,6,6
+Seychelles,2011,"Bovine animals, live, except pure-bred breeding",Export,3531,6,25
+United Rep. of Tanzania,2012,"Whalebone, horns, etc unworked or simply prepared nes",Import,3577,6,6
+Peru,2005,Bones and horn-cores unworked or simply worked nes,Import,3768,6,6
+Poland,2005,"Hair, human, unworked, waste of human hair",Import,3954,6,6
+Mozambique,2004,Grain sorghum,Import,5419,6,6
+Norway,2012,Feathers and down used for stuffing,Export,6855,6,6
+Mauritius,1997,"Bristles, hair & waste thereof of pigs, hogs or boars",Export,12098,6,6
+Sri Lanka,2006,Hair & waste of badger and of other brush making hair,Export,17438,6,6
+Yemen,2010,"Horses, live pure-bred breeding",Import,24759,6,1245
+Singapore,2008,"Ambergris, civet, musk, etc for pharmaceutical use",Import,47479,6,6
+Tunisia,2015,Animal products and domestic animal carcass (non-food,Import,125499,6,6
+Mongolia,1999,"Wheat except durum wheat, and meslin",Export,3,7,7
+Mexico,1998,"Ambergris, civet, musk, etc for pharmaceutical use",Export,3,7,7
+Samoa,2013,Durum wheat,Import,3,7,7
+Namibia,2016,"Wheat except durum wheat, and meslin",Export,6,7,7
+Nicaragua,2003,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Import,6,7,7
+Peru,1995,"Flour, meal, powder of fruit/nut, citrus or melon pee",Import,8,7,7
+Palau,2010,"Flour or meal of sago, starchy roots or tubers",Import,8,7,7
+Niger,2010,"Oats, rolled or flaked grains",Import,8,7,7
+Niger,2011,"Oats, rolled or flaked grains",Import,8,7,7
+Saint Kitts and Nevis,1996,"Bulbs, tubers, corms etc in growth, chicory plants",Export,9,7,7
+Saint Vincent and the Grenadines,1997,"Plants, live (including their roots),nes",Export,11,7,7
+Mongolia,1998,"Cereals, hulled, pearled, sliced or kibbled nes",Export,11,7,7
+Peru,2003,"Flour or meal of sago, starchy roots or tubers",Import,13,7,7
+Niger,2015,Natural milk products nes,Import,13,7,7
+Nicaragua,1995,"Cuttings and slips, not rooted",Import,13,7,7
+Pakistan,2007,Egg yolks except dried,Export,14,7,7
+Mozambique,2006,Yogurt,Export,14,7,7
+Nicaragua,2009,Buckwheat,Import,14,7,7
+Russian Federation,2014,"Feathers, down, etc. of birds, except for stuffing",Export,15,7,7
+Nicaragua,2003,Milk and cream not concentrated nor sweetened < 6% fa,Export,15,7,7
+Montserrat,2009,Potato flour or meal,Import,15,7,7
+Saint Vincent and the Grenadines,1994,Rice in the husk (paddy or rough),Import,17,7,7
+Sao Tome and Principe,2012,"Cut flowers and flower buds for bouquets, etc., fresh",Export,18,7,7
+Saint Kitts and Nevis,2006,"Foliage,branches, for bouquets, etc. - fresh",Export,19,7,7
+Tonga,2012,"Wheat except durum wheat, and meslin",Import,19,7,7
+Saint Kitts and Nevis,2004,"Trees, edible fruit or nut, shrubs and bushes",Import,19,7,1
+Saint Vincent and the Grenadines,2001,Millet,Import,20,7,7
+Saint Lucia,2004,Durum wheat,Import,21,7,7
+Niger,2001,"Potato flakes, granules and pellets",Import,22,7,7
+Saint Lucia,2007,"Foliage,branches, for bouquets, etc. - fresh",Import,24,7,7
+Rep. of Korea,2010,"Bulbs, tubers, corms etc in growth, chicory plants",Export,28,7,8
+Rep. of Korea,2004,Rice in the husk (paddy or rough),Import,28,7,7
+Nicaragua,2002,"Hair, human, unworked, waste of human hair",Import,28,7,7
+New Caledonia,2006,Maize (corn) flour,Export,29,7,7
+Paraguay,1990,"Flour, meal, powder of fruit/nut, citrus or melon pee",Import,29,7,7
+Nicaragua,2010,Barley,Import,29,7,7
+Suriname,2012,"Hair, human, unworked, waste of human hair",Export,30,7,7
+Mozambique,2009,Butter and other fats and oils derived from milk,Export,30,7,7
+Mozambique,2008,"Bulbs, tubers, corms, crowns and rhizomes, dormant",Import,30,7,169
+Trinidad and Tobago,1997,Bones and horn-cores unworked or simply worked nes,Export,31,7,7
+Mongolia,2000,"Feathers, down, etc. of birds, except for stuffing",Export,32,7,7
+Mayotte,2008,Durum wheat,Import,35,7,7
+Montserrat,2014,"Germ of cereals, whole, rolled, flaked or ground",Import,36,7,7
+Mayotte,2007,Millet,Import,36,7,7
+Montenegro,2016,Milk powder < 1.5% fat,Export,37,7,7
+Saint Vincent and the Grenadines,2011,"Foliage,branches, for bouquets, etc. - except fresh",Import,37,7,7
+Peru,2001,Milk and cream powder sweetened < 1.5% fat,Export,38,7,7
+Saint Vincent and the Grenadines,2008,Rice in the husk (paddy or rough),Import,38,7,7
+So. African Customs Union,1994,Ossein and bones treated with acid,Import,42,7,7
+Saint Lucia,2006,Millet,Import,46,7,7
+Morocco,1996,Roses,Import,46,7,7
+Solomon Isds,2016,"Cut flowers and flower buds for bouquets, etc., fresh",Import,47,7,7
+Spain,1995,Ossein and bones treated with acid,Export,48,7,7
+Mongolia,2003,"Foliage,branches, for bouquets, etc. - fresh",Import,48,7,7
+New Caledonia,2007,"Birds eggs, in shell, fresh, preserved or cooked",Export,55,7,7
+Namibia,2006,Cereal pellets except wheat,Export,57,7,7
+Rwanda,1999,"Animals, live, except farm animals",Export,59,7,7
+Zimbabwe,1995,"Ivory, unworked or simply prepared, powder and waste",Import,62,7,7
+Rep. of Korea,1996,"Rice, broken",Import,62,7,7
+Peru,2006,"Cheese, grated or powdered, of all kinds",Export,64,7,7
+Rep. of Moldova,2013,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Import,64,7,7
+Namibia,2011,Potato flour or meal,Export,66,7,7
+Saint Kitts and Nevis,1995,Millet,Import,72,7,7
+Portugal,2008,"Hair, human, unworked, waste of human hair",Export,74,7,7
+Saint Kitts and Nevis,1994,"Wheat except durum wheat, and meslin",Import,76,7,7
+Saint Kitts and Nevis,2009,"Bulbs, tubers, corms, crowns and rhizomes, dormant",Import,76,7,447
+Slovakia,2002,"Sponges, natural, of animal origin",Export,83,7,7
+Peru,2012,Milk and cream powder sweetened < 1.5% fat,Export,86,7,7
+New Caledonia,2015,"Cheese processed, not grated or powdered",Export,86,7,7
+New Caledonia,2005,Maize (corn) flour,Export,88,7,7
+Thailand,1988,Ossein and bones treated with acid,Import,95,7,7
+Panama,2014,Maize (corn) groats or meal,Export,99,7,7
+Tuvalu,2006,Maize (corn) seed,Import,106,7,7
+Saint Vincent and the Grenadines,2009,"Hair, human, unworked, waste of human hair",Import,108,7,7
+Morocco,1994,"Foliage,branches, for bouquets, etc. - except fresh",Import,112,7,7
+Trinidad and Tobago,1999,"Ambergris, civet, musk, etc for pharmaceutical use",Import,115,7,7
+New Zealand,2012,"Cut flowers and flower buds for bouquets, dried, etc.",Export,123,7,7
+Togo,1997,"Foliage,branches, for bouquets, etc. - except fresh",Import,129,7,7
+Samoa,2001,"Wheat except durum wheat, and meslin",Import,132,7,7
+Portugal,2003,Roses,Export,134,7,35
+Rep. of Korea,2002,"Rice, husked (brown)",Export,138,7,7
+Switzerland,2008,Buckwheat,Export,139,7,7
+Palau,2014,"Oats, hulled, pearled, sliced or kibbled",Import,149,7,7
+Saint Lucia,1995,"Poultry, live except domestic fowls, < 185 grams",Import,155,7,7
+Montenegro,2008,Yogurt,Export,169,7,7
+Russian Federation,2015,"Fowls, live domestic > 185 grams",Import,176,7,23
+Seychelles,2010,"Whalebone, horns, etc unworked or simply prepared nes",Import,182,7,7
+Norway,1998,"Goats, live",Import,182,7,7
+Uruguay,2005,"Sponges, natural, of animal origin",Import,220,7,7
+Montenegro,2011,Milk not concentrated nor sweetened 1-6% fat,Export,226,7,7
+Papua New Guinea,2012,"Cut flowers and flower buds for bouquets, dried, etc.",Import,226,7,7
+Mauritius,1993,"Fish, shellfish and crustaceans (non-food)",Import,238,7,7
+Seychelles,2001,"Sponges, natural, of animal origin",Import,239,7,7
+Mauritius,2008,Cinnamon and cinnamon-tree flowers whole,Export,245,7,7
+Romania,2012,"Fish, shellfish and crustaceans (non-food)",Export,269,7,7
+Nicaragua,1997,"Whalebone, horns, etc unworked or simply prepared nes",Export,294,7,7
+Sri Lanka,1991,"Bristles, hair & waste thereof of pigs, hogs or boars",Export,308,7,7
+Uganda,2002,"Animals, live, except farm animals",Import,308,7,309
+Papua New Guinea,2004,Inulin,Import,310,7,7
+Saint Lucia,2004,"Mosses and lichens for bouquets, ornamental purposes",Import,348,7,7
+Uruguay,2012,"Whalebone, horns, etc unworked or simply prepared nes",Import,351,7,7
+Peru,1994,"Cuttings and slips, not rooted",Export,398,7,7
+Rep. of Korea,2008,"Bulbs, tubers, corms, crowns and rhizomes, dormant",Export,408,7,2734
+Norway,2011,"Ambergris, civet, musk, etc for pharmaceutical use",Import,485,7,7
+Switzerland,1991,"Whalebone, horns, etc unworked or simply prepared nes",Export,489,7,7
+Peru,2005,"Sponges, natural, of animal origin",Import,572,7,7
+Zambia,1995,"Bristles, hair & waste thereof of pigs, hogs or boars",Export,587,7,7
+Morocco,2011,"Sponges, natural, of animal origin",Import,620,7,7
+Nicaragua,2013,"Malt, not roasted",Import,639,7,7
+Namibia,2012,Feathers and down used for stuffing,Import,648,7,7
+Trinidad and Tobago,1992,"Sponges, natural, of animal origin",Import,704,7,7
+Turkey,2005,"Ambergris, civet, musk, etc for pharmaceutical use",Import,1071,7,7
+Mozambique,2010,"Hair, human, unworked, waste of human hair",Import,1121,7,7
+New Zealand,2009,"Hair, human, unworked, waste of human hair",Import,1127,7,7
+Turkey,2008,"Ambergris, civet, musk, etc for pharmaceutical use",Import,1327,7,7
+Norway,2011,"Hair, human, unworked, waste of human hair",Import,1391,7,7
+New Caledonia,2011,"Whalebone, horns, etc unworked or simply prepared nes",Export,1402,7,7
+Switzerland,2001,"Ivory, unworked or simply prepared, powder and waste",Export,1423,7,7
+Rep. of Korea,2010,Hair & waste of badger and of other brush making hair,Export,1511,7,7
+Norway,2005,Milk and cream powder unsweetened < 1.5% fat,Export,1672,7,7
+Mauritius,1998,Semen bovine,Import,2112,7,7
+Peru,2003,"Horsehair, waste",Import,2119,7,7
+Serbia,2009,"Feathers, down, etc. of birds, except for stuffing",Import,2488,7,7
+Papua New Guinea,2002,"Poultry, live except domestic fowls, > 185 grams",Import,2581,7,7
+"Other Asia, nes",2012,"Ivory, unworked or simply prepared, powder and waste",Import,3174,7,7
+Norway,2011,"Swine, live except pure-bred breeding < 50 kg",Import,3902,7,1
+TFYR of Macedonia,2009,"Hair, human, unworked, waste of human hair",Import,4163,7,7
+Mozambique,2003,Grain sorghum,Import,4218,7,7
+"Other Asia, nes",1998,Grain sorghum,Export,4670,7,7
+New Zealand,2004,Ossein and bones treated with acid,Import,5399,7,7
+Mauritius,1994,"Bristles, hair & waste thereof of pigs, hogs or boars",Export,7445,7,7
+Papua New Guinea,2012,"Wheat, starch",Export,7844,7,7
+Singapore,2007,"Ambergris, civet, musk, etc for pharmaceutical use",Import,10256,7,7
+Rep. of Moldova,2016,"Hair, human, unworked, waste of human hair",Export,12543,7,7
+"Other Asia, nes",1998,Cereals unmilled nes,Export,24217,7,7
+Portugal,2012,"Ambergris, civet, musk, etc for pharmaceutical use",Import,27484,7,7
+Venezuela,1996,"Ambergris, civet, musk, etc for pharmaceutical use",Export,41643,7,7
+Mozambique,2006,Grain sorghum,Export,2,8,8
+Mexico,1990,Barley,Export,2,8,8
+Rwanda,2008,Hair & waste of badger and of other brush making hair,Import,3,8,8
+Slovenia,2012,Rice in the husk (paddy or rough),Export,4,8,8
+New Caledonia,2005,Maize except seed corn,Export,4,8,8
+Namibia,2005,"Malt, roasted",Export,4,8,8
+Sri Lanka,2005,Durum wheat,Export,5,8,8
+Zimbabwe,2004,"Foliage,branches, for bouquets, etc. - except fresh",Import,5,8,8
+Swaziland,2004,"Whalebone, horns, etc unworked or simply prepared nes",Import,5,8,8
+Trinidad and Tobago,2000,Rye,Export,8,8,8
+Mongolia,2004,"Cheese except fresh, grated, processed or blue-veined",Export,8,8,8
+Uganda,2011,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Import,8,8,8
+Saudi Arabia,1991,Animal products and domestic animal carcass (non-food,Export,9,8,8
+Paraguay,2010,"Maize (corn), hulled, pearled, sliced or kibbled",Export,9,8,8
+Switzerland,2006,"Rice, broken",Export,11,8,8
+Namibia,2009,Durum wheat,Export,12,8,8
+Russian Federation,2005,"Sponges, natural, of animal origin",Import,12,8,8
+Ukraine,2015,Bones and horn-cores unworked or simply worked nes,Export,13,8,8
+Saint Lucia,1999,"Cut flowers and flower buds for bouquets, etc., fresh",Export,13,8,8
+Morocco,2006,Milk powder < 1.5% fat,Export,13,8,8
+Trinidad and Tobago,2015,Rye,Export,14,8,8
+Malta,1995,Animal products and domestic animal carcass (non-food,Export,14,8,8
+Timor-Leste,2004,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Export,15,8,8
+Mexico,1991,"Malt, roasted",Export,16,8,8
+Swaziland,2006,"Wheat except durum wheat, and meslin",Export,17,8,8
+Ukraine,2010,Rice in the husk (paddy or rough),Export,20,8,8
+Peru,2003,"Buttermilk, curdled milk, cream, kephir, etc.",Export,21,8,8
+New Caledonia,2006,Yogurt,Export,23,8,8
+Mozambique,2000,"Flour, meal, powder of fruit/nut, citrus or melon pee",Import,24,8,8
+Montserrat,2013,"Germ of cereals, whole, rolled, flaked or ground",Import,27,8,8
+Oman,2005,"Foliage,branches, for bouquets, etc. - fresh",Import,31,8,8
+Timor-Leste,2004,"Bulbs, tubers, corms, crowns and rhizomes, dormant",Import,33,8,135
+Namibia,2005,"Bulbs, tubers, corms, crowns and rhizomes, dormant",Export,34,8,21
+Papua New Guinea,2004,"Foliage,branches, for bouquets, etc. - except fresh",Import,35,8,8
+New Zealand,1991,Rice flour,Export,38,8,8
+Zimbabwe,2004,"Sponges, natural, of animal origin",Import,38,8,8
+Saint Kitts and Nevis,2010,Cereals unmilled nes,Import,39,8,8
+Mauritius,2014,Cereals unmilled nes,Export,40,8,8
+Saint Kitts and Nevis,2002,"Trees, edible fruit or nut, shrubs and bushes",Export,41,8,13
+Neth. Antilles,2007,"Flour, meal, powder of fruit/nut, citrus or melon pee",Import,41,8,8
+Montenegro,2015,Buckwheat,Export,42,8,8
+Myanmar,1992,"Honey, natural",Import,42,8,8
+Senegal,1997,"Mosses and lichens for bouquets, ornamental purposes",Import,43,8,8
+Nicaragua,2007,"Flour or meal of sago, starchy roots or tubers",Import,45,8,8
+Mauritius,2000,"Mosses and lichens for bouquets, ornamental purposes",Import,45,8,8
+Slovenia,2010,Rice in the husk (paddy or rough),Export,50,8,8
+Slovenia,2011,Rice in the husk (paddy or rough),Export,50,8,8
+Montserrat,2008,"Honey, natural",Import,50,8,8
+Senegal,2006,"Foliage,branches, for bouquets, etc. - except fresh",Import,51,8,8
+Wallis and Futuna Isds,2001,Maize except seed corn,Import,52,8,8
+Saint Lucia,1994,"Fish, shellfish and crustaceans (non-food)",Import,53,8,8
+Morocco,2004,"Cereals, hulled, pearled, sliced or kibbled nes",Export,55,8,8
+Rep. of Moldova,2014,"Cut flowers and flower buds for bouquets, dried, etc.",Import,58,8,8
+Nepal,2011,Egg yolks except dried,Import,60,8,8
+United Rep. of Tanzania,2000,"Whalebone, horns, etc unworked or simply prepared nes",Import,63,8,8
+Palau,2016,Buckwheat,Import,64,8,8
+Portugal,2006,Hair & waste of badger and of other brush making hair,Export,65,8,8
+Sri Lanka,2003,"Horses, live except pure-bred breeding",Export,67,8,2
+"Other Asia, nes",2013,"Swine, live except pure-bred breeding > 50 kg",Export,67,8,10
+Zimbabwe,2014,"Whalebone, horns, etc unworked or simply prepared nes",Import,68,8,8
+Namibia,2013,Potato starch,Export,69,8,8
+Seychelles,2006,"Sponges, natural, of animal origin",Import,69,8,8
+Uganda,1997,Rye,Import,72,8,8
+Nepal,2009,"Foliage,branches, for bouquets, etc. - except fresh",Import,72,8,8
+Mongolia,2000,"Potato flakes, granules and pellets",Import,74,8,8
+Trinidad and Tobago,1991,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Export,81,8,8
+Suriname,1994,"Cut flowers and flower buds for bouquets, etc., fresh",Import,81,8,8
+Saint Vincent and the Grenadines,1999,"Guts, bladders and stomachs of animals except fish",Import,82,8,8
+Montserrat,2013,"Malt, roasted",Import,82,8,8
+Sri Lanka,2005,"Horses, live except pure-bred breeding",Export,85,8,5
+Nicaragua,2006,"Mosses and lichens for bouquets, ornamental purposes",Import,86,8,8
+Mauritius,2014,Cumin seeds,Export,89,8,8
+United Arab Emirates,1993,"Sponges, natural, of animal origin",Import,92,8,8
+Mauritius,2002,Caraway seeds,Import,94,8,8
+Mauritius,2001,Animal products and domestic animal carcass (non-food,Export,96,8,8
+United Rep. of Tanzania,2012,"Poultry, live except domestic fowls, > 185 grams",Import,96,8,9
+Mayotte,2009,"Cuttings and slips, not rooted",Import,102,8,513
+Mayotte,2009,"Buttermilk, curdled milk, cream, kephir, etc.",Export,106,8,8
+Rep. of Korea,2007,"Wheat except durum wheat, and meslin",Export,107,8,8
+TFYR of Macedonia,2004,"Whalebone, horns, etc unworked or simply prepared nes",Export,108,8,8
+Namibia,2000,"Starches except wheat, maize, potato, manioc",Export,109,8,8
+Trinidad and Tobago,2010,"Foliage,branches, for bouquets, etc. - fresh",Import,109,8,8
+Mauritius,2006,"Mosses and lichens for bouquets, ornamental purposes",Export,121,8,8
+So. African Customs Union,1999,"Foliage,branches, for bouquets, etc. - fresh",Import,123,8,8
+TFYR of Macedonia,2010,Oats,Import,124,8,8
+Switzerland,2010,"Poultry, live except domestic fowls, > 185 grams",Import,129,8,15
+New Caledonia,2004,"Hair, human, unworked, waste of human hair",Export,136,8,8
+Namibia,2016,"Feathers, down, etc. of birds, except for stuffing",Export,136,8,8
+Nepal,2013,"Horses, live except pure-bred breeding",Import,137,8,4
+Swaziland,2006,"Foliage,branches, for bouquets, etc. - fresh",Export,142,8,8
+Montenegro,2012,"Honey, natural",Export,149,8,8
+Saint Lucia,2004,Feathers and down used for stuffing,Import,150,8,8
+Swaziland,2007,Bones and horn-cores unworked or simply worked nes,Import,154,8,8
+Namibia,2005,"Poultry, live except domestic fowls, < 185 grams",Export,157,8,19
+Neth. Antilles,2008,"Maize (corn), hulled, pearled, sliced or kibbled",Export,159,8,8
+Zimbabwe,2015,Feathers and down used for stuffing,Import,163,8,8
+Montenegro,2013,Egg yolks dried,Import,171,8,8
+TFYR of Macedonia,2011,"Bulbs, tubers, corms, crowns and rhizomes, dormant",Export,173,8,8
+Tunisia,1999,Feathers and down used for stuffing,Import,179,8,8
+Mongolia,2013,"Fresh cheese, unfermented whey cheese, curd",Export,200,8,8
+Seychelles,1994,Animal products and domestic animal carcass (non-food,Import,205,8,8
+Ukraine,2009,"Mosses and lichens for bouquets, ornamental purposes",Import,215,8,8
+Turkey,2012,"Ambergris, civet, musk, etc for pharmaceutical use",Export,243,8,8
+Panama,2015,"Germ of cereals, whole, rolled, flaked or ground",Import,243,8,8
+Tunisia,2013,"Fowls, live domestic > 185 grams",Import,246,8,9
+Rep. of Moldova,2011,"Fish, shellfish and crustaceans (non-food)",Import,268,8,8
+Saint Lucia,1994,"Trees, edible fruit or nut, shrubs and bushes",Import,275,8,8
+Mauritius,1999,"Foliage,branches, for bouquets, etc. - except fresh",Import,280,8,8
+Montenegro,2013,Edible products of animal origin nes,Import,282,8,8
+Saint Lucia,2010,"Sponges, natural, of animal origin",Import,295,8,8
+New Caledonia,2013,"Flour, meal, powder of fruit/nut, citrus or melon pee",Export,316,8,8
+Slovenia,2015,"Feathers, down, etc. of birds, except for stuffing",Import,320,8,8
+Singapore,1995,"Bristles, hair & waste thereof of pigs, hogs or boars",Export,350,8,8
+Morocco,2012,"Eggs, bird, not in shell not dried",Import,356,8,8
+Sri Lanka,2002,"Fowls, live domestic < 185 grams",Export,366,8,900
+Uganda,2002,"Foliage,branches, for bouquets, etc. - fresh",Export,391,8,8
+Namibia,2009,"Cereals, hulled, pearled, sliced or kibbled nes",Export,408,8,8
+"Other Asia, nes",2015,"Poultry, live except domestic fowls, > 185 grams",Import,419,8,57
+Serbia,2006,"Sponges, natural, of animal origin",Import,437,8,8
+Montserrat,2005,Grain sorghum,Import,444,8,8
+Senegal,2011,Bones and horn-cores unworked or simply worked nes,Import,468,8,8
+Neth. Antilles,2006,"Hair, human, unworked, waste of human hair",Import,479,8,8
+Mauritius,1994,Roses,Import,489,8,8
+Sri Lanka,2014,"Poultry, live except domestic fowls, < 185 grams",Export,532,8,685
+Russian Federation,2003,Bones and horn-cores unworked or simply worked nes,Export,563,8,8
+Ukraine,2005,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Import,600,8,8
+Serbia,2007,"Feathers, down, etc. of birds, except for stuffing",Import,703,8,8
+Namibia,2010,Ossein and bones treated with acid,Export,728,8,8
+New Zealand,1992,Inulin,Import,735,8,8
+Rwanda,1998,Animal products and domestic animal carcass (non-food,Import,788,8,8
+Norway,1993,"Ivory, unworked or simply prepared, powder and waste",Export,900,8,8
+Montenegro,2011,Animal products and domestic animal carcass (non-food,Import,921,8,8
+Morocco,2006,Edible products of animal origin nes,Import,929,8,8
+Tunisia,2006,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Import,975,8,8
+New Zealand,2010,"Ivory, unworked or simply prepared, powder and waste",Import,1033,8,8
+Papua New Guinea,1998,"Ambergris, civet, musk, etc for pharmaceutical use",Import,1121,8,8
+Mauritius,1994,"Feathers, down, etc. of birds, except for stuffing",Import,1208,8,8
+Malta,2007,"Plants, live (including their roots),nes",Export,1346,8,8
+Sri Lanka,2005,"Sponges, natural, of animal origin",Import,1517,8,8
+Norway,2000,"Poultry, live except domestic fowls, > 185 grams",Import,1598,8,38
+Thailand,2012,"Hair, human, unworked, waste of human hair",Export,1658,8,8
+Rep. of Moldova,2006,Animal products and domestic animal carcass (non-food,Export,2000,8,8
+Ukraine,2009,"Ambergris, civet, musk, etc for pharmaceutical use",Export,2078,8,8
+Slovakia,2012,"Whalebone, horns, etc unworked or simply prepared nes",Export,2224,8,8
+Peru,1997,"Hair, human, unworked, waste of human hair",Import,2562,8,8
+Netherlands,2008,"Ivory, unworked or simply prepared, powder and waste",Export,2947,8,8
+Switzerland,2002,"Ivory, unworked or simply prepared, powder and waste",Import,3113,8,8
+Singapore,1990,Semen bovine,Import,4066,8,8
+Switzerland,2001,"Hair, human, unworked, waste of human hair",Export,4281,8,8
+Singapore,2006,"Ivory, unworked or simply prepared, powder and waste",Export,6298,8,8
+Peru,2002,Animal products and domestic animal carcass (non-food,Import,8593,8,8
+Tunisia,1993,"Fish, shellfish and crustaceans (non-food)",Export,9130,8,8
+Nicaragua,2007,"Plants, live (including their roots),nes",Export,15020,8,8
+Nigeria,1997,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Import,1,9,9
+Seychelles,2001,"Rice, broken",Export,2,9,9
+Nicaragua,1999,Durum wheat,Export,3,9,9
+Mexico,2016,"Feathers, down, etc. of birds, except for stuffing",Export,3,9,9
+Niger,1996,Edible products of animal origin nes,Import,7,9,9
+Saint Lucia,2001,"Foliage,branches, for bouquets, etc. - except fresh",Export,9,9,9
+Senegal,2003,"Feathers, down, etc. of birds, except for stuffing",Import,10,9,9
+Myanmar,2001,"Fish, shellfish and crustaceans (non-food)",Import,10,9,9
+Saint Kitts and Nevis,1993,"Bulbs, tubers, corms, crowns and rhizomes, dormant",Export,12,9,9
+Paraguay,1989,Wheat or meslin flour,Import,12,9,9
+United Kingdom,2012,Ossein and bones treated with acid,Export,13,9,9
+Peru,2001,Milk powder < 1.5% fat,Export,15,9,9
+Seychelles,2007,Maize (corn) seed,Export,16,9,9
+Montserrat,2005,Rice flour,Import,16,9,9
+Peru,2004,"Whalebone, horns, etc unworked or simply prepared nes",Import,18,9,9
+Oman,2016,Wheat pellets,Import,18,9,9
+Mayotte,2007,"Starches except wheat, maize, potato, manioc",Import,18,9,9
+Saint Lucia,2001,Durum wheat,Import,20,9,9
+Namibia,2004,"Foliage,branches, for bouquets, etc. - fresh",Export,23,9,9
+Namibia,2006,"Trees, edible fruit or nut, shrubs and bushes",Export,24,9,1
+Saint Lucia,2008,"Coral,seashell,cuttle bone,etc, unworked,powder,waste",Import,25,9,9
+Tonga,2014,"Plants, live (including their roots),nes",Export,27,9,9
+Nicaragua,1997,"Maize (corn), hulled, pearled, sliced or kibbled",Import,27,9,9
+Seychelles,1995,Barley,Import,31,9,9
+Montenegro,2015,Flour or meal of dried legumes,Import,32,9,9
+South Africa,2009,Rhododendrons and azaleas,Import,33,9,2500
+Mauritania,2006,"Cheese, blue-veined",Import,33,9,9
+Singapore,2004,Roses,Export,34,9,20
+Montserrat,2006,"Cereals, hulled, pearled, sliced or kibbled nes",Import,36,9,9
+Mayotte,2001,Manioc (cassava) starch,Import,36,9,9
+Venezuela,2005,"Mosses and lichens for bouquets, ornamental purposes",Export,37,9,9
+Saint Vincent and the Grenadines,2015,Animal products and domestic animal carcass (non-food,Import,37,9,9
+Senegal,2015,Durum wheat,Export,38,9,9
+Mayotte,2008,Potato starch,Import,38,9,9
+Mongolia,2001,Milk and cream nes sweetened or concentrated,Export,45,9,9
+Singapore,1989,Hair & waste of badger and of other brush making hair,Import,45,9,9
+Namibia,2013,"Cereals, hulled, pearled, sliced or kibbled nes",Export,47,9,9
+Sri Lanka,2001,Oats,Export,48,9,9
+Mauritius,2002,Mace,Import,48,9,9
+Mayotte,2009,Rice in the husk (paddy or rough),Import,49,9,9
+Rep. of Korea,2008,Maize (corn) seed,Export,50,9,9
+Viet Nam,2001,"Cut flowers and flower buds for bouquets, dried, etc.",Import,50,9,9
+Togo,1994,"Sponges, natural, of animal origin",Import,53,9,9
+Saint Kitts and Nevis,2002,"Sponges, natural, of animal origin",Import,53,9,9
